@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 9a566d205596129499dbed3e1b817ffc
+  - enabled: 1
+    path: Assets/Scene/Seek.unity
+    guid: 7c13af87ce4b88842b963153a8b489ef
+  - enabled: 1
+    path: Assets/Scene/Flee.unity
+    guid: 1b7233c825deed948b8cdb090592e62d
+  - enabled: 1
+    path: Assets/Scene/Arrival.unity
+    guid: c75a0c00443427e4aaf12c6bdadd60c0
+  - enabled: 1
+    path: Assets/Scene/Pursuit.unity
+    guid: f0f306b9e43621c479db61c435b933fb
+  - enabled: 1
+    path: Assets/Scene/Wander.unity
+    guid: 0c457aec4803f47429c26122b49a5def
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
